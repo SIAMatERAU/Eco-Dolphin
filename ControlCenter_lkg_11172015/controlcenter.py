@@ -35,7 +35,7 @@ ser.open()
 #initialize variables
 response = ""
 timeOut = 1
-hoverTime = 15
+hoverTime = 150
 
 #commands to send to agent
 Accel = '1'
